@@ -1,9 +1,9 @@
 {
-    "name": "Space Cadet",
-    "author": "Pukima#0001",
-    "version": "1.0.2",
+    "name": "Phoenix",
+    "author": "Pukima#7331",
+    "version": "1.1.0",
     "license": "MIT",
-    "updater": "https://raw.githubusercontent.com/Pukimaa/AliucordThemes/master/Space-Cadet/space-cadet_theme.json",
+    "updater": "https://raw.githubusercontent.com/Pukimaa/AliucordThemes/master/Phoenix/phoenix_theme.json",
      "mention_highlight": 536453493,
      "simple_bg_color": -14210750,
      "simple_bg_secondary_color": -14803407,
